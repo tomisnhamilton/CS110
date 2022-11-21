@@ -1,6 +1,6 @@
 # -----------------------------------------
 # Title: Course Project - Spiral 3
-# Author: C4C Tomis Hamilton
+# Author: CounterSpective
 # Section: M1
 # Documentation in canvas submission
 # What creative extras you added in canvas submission
